@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="cardStyle">
+        <item name="android:background">@android:drawable/dialog_holo_light_frame</item>
+    </style>
+</resources>
